@@ -1,11 +1,17 @@
-# My first webpage
+# Welcome
 
-Welcome to my first attempt at making a web page
+This is the first attempt of making a webpage
 
-## this is a h2
+In this project its consists of a number of elements
+from    
 
-### this is a h3
+Linking in a css style sheet for the webpage
 
-#### this is a h4
+The use of a navigation bar in creating a link to multiple pages of content
 
-##### this is a p
+Creating a card class inside a div element to add picture and a like to information on that subject
+
+The use of a (a href) and (img src) for linking in the information
+
+
+                
